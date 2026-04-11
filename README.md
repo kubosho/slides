@@ -42,3 +42,30 @@ Slides
   - at SPAサービスサミット #1
 - 12/03: [CSS設計を破綻させない](https://speakerdeck.com/kubosho/cssshe-ji-wopo-zhan-sasenai)
   - at builderscon tokyo 2016
+
+2019
+------------
+
+- 5/18: [AbemaTVにおけるCSS is too fragile問題に対する解](https://speakerdeck.com/kubosho/solution-of-css-is-too-fragile-by-abematv)
+  - Inside Frontend #3
+
+
+2021
+------------
+
+- 9/15: [CSS のルールセットを高速に出力する VS Code 拡張を作った](https://speakerdeck.com/kubosho/made-a-vs-code-extension-to-output-css-rulesets)
+  - at フロントエンドLT会 - vol.4
+- 11/12: [ABEMA のアクセシビリティータスクフォースは何をしてきて何をやるか](https://speakerdeck.com/kubosho/what-abema-accessibility-task-force-has-done-and-will-do)
+  - at Muddy Web #2
+
+2022
+------------
+
+- 7/1: [個人からチームに広げるアクセシビリティ向上の輪](https://speakerdeck.com/kubosho/accessibility-improvement-expanding-from-individual-to-team)
+  - at UIT Meetup vol.16「ちゃんとやってる？アクセシビリティ」
+
+2026
+------------
+
+- 4/11: [東ゆうはなぜブリリアントジャークと化したのか](https://docs.google.com/presentation/d/1uD4FyFD5yELtPYZRRn1OxWFR5ckmhkUxSgPjABmwRgE/edit?usp=sharing)
+  - at 【劇場版】アニメから得た学びを発表会2026
