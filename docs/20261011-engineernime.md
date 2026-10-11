@@ -1,3 +1,7 @@
+---
+presentationID: 1F8h_S1_UBkpyMthAR0y7JVPCXekjwF33Se8QAnuu_14
+---
+
 <!-- { "layout": "title" } -->
 
 # 高海千歌から学ぶ自己肯定と自己効力
@@ -18,7 +22,7 @@
 
 ---
 
-<!-- { "layout": "title-and-body" } -->
+<!-- { "layout": "title-and-texts" } -->
 
 # 自己受容と自己効力
 
@@ -31,18 +35,18 @@
 ここでは、自己受容を「弱さや失敗も含めて自分を受け止めること」、自己効力を「必要な行動を実行できるという見通し」という意味で使います。
 たとえば、失敗した自分を否定せずに、次は方法を変えて試せると考えることです。
 自己効力は、どんなことでもできるという万能感ではなく、具体的な活動についての信念です。
-添付の解説記事では自己肯定感の意味に幅があるので、この発表ではこの二つを分けて考えます。
 出典：Bandura (2006), Guide for Constructing Self-Efficacy Scales, pp. 307–309。
 https://bpb-us-e1.wpmucdn.com/websites.uta.edu/dist/1/4994/files/2021/07/Guide-for-Constructing-Self-Efficacy-Scales-Bandura2006.pdf
 -->
 
 ---
 
-<!-- { "layout": "title-and-body" } -->
+<!-- { "layout": "title-and-texts" } -->
 
 # 第1話：普通の自分が始めてみる
 
 - 千歌は、自分には目立つ特技がないと感じている
+- 自分のことを普通星に生まれた普通星人と称する
 - μ'sに憧れ、スクールアイドルを始めようとする
 
 **特別な才能の証明を待たずに、自分の願いで動き始める。**
@@ -61,7 +65,7 @@ https://lastbreath.hatenablog.com/entry/2016/07/03/065548
 
 ---
 
-<!-- { "layout": "title-and-body" } -->
+<!-- { "layout": "title-and-texts" } -->
 
 # 第8話：0票を受け止める
 
@@ -87,7 +91,7 @@ https://tyomoranma.hatenablog.com/entry/2016/11/21/085715
 
 ---
 
-<!-- { "layout": "title-and-body" } -->
+<!-- { "layout": "title-and-texts" } -->
 
 # 第12話：自分たちの道を選ぶ
 
@@ -112,11 +116,14 @@ https://gleebear.hatenablog.com/entry/2016/09/22/195302
 -->
 
 ---
+
+<!-- { "layout": "title-and-texts" } -->
+
 # 2期第6話：Aqours WAVE
 
 - 千歌は大技に挑むが、失敗が続き、自分の力を疑う
 - 曜と梨子は、Aqoursを始めた千歌自身の力を伝える
-- 練習を重ね、「MIRACLE WAVE」で大技を成功させる
+- 練習を重ね千歌は大技を成功させる
 
 **仲間の言葉と積み重ねた経験が、自分の力への信頼を支える。**
 
@@ -144,7 +151,7 @@ https://doi.org/10.1037/0033-295X.84.2.191
 
 ---
 
-<!-- { "layout": "title-and-body" } -->
+<!-- { "layout": "title-and-texts" } -->
 
 # 日々の仕事で試せること
 
@@ -168,7 +175,7 @@ https://doi.org/10.1037/0033-295X.84.2.191
 
 ---
 
-<!-- { "layout": "title-and-body" } -->
+<!-- { "layout": "title-and-texts" } -->
 
 # 千歌から学んだこと
 
